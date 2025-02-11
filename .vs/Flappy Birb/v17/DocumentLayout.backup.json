@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tahlia\\Flappy Birb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|c:\\users\\tahlia\\flappy birb\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|c:\\users\\tahlia\\flappy birb\\assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|C:\\Users\\Tahlia\\Flappy Birb\\assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|C:\\Users\\Tahlia\\Flappy Birb\\assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522EEBDD-CCFB-3392-CF0C-D22AA37C8C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:28:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeSpawnScript.cs",
+              "ToolTip": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\PipeSpawnScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:56:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMoveScript.cs",
+              "ToolTip": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\PipeMoveScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:47:40.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "birdScript.cs",
+              "DocumentMoniker": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\birdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\birdScript.cs",
+              "ToolTip": "C:\\Users\\Tahlia\\Flappy Birb\\Assets\\birdScript.cs",
+              "RelativeToolTip": "Assets\\birdScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:36:18.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
